@@ -1,0 +1,14 @@
+// actionTypes.js
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS'
+export const REGISTER_USER = 'REGISTER_USER';
+export const UPDATE_ERRORS = 'UPDATE_ERRORS';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS'
+export const FETCH_POSTS = 'FETCH_POSTS'
+export const FILTERED_POSTS = 'FILTERED_POSTS'
+export const UPDATE_FOLLOW = 'UPDATE_FOLLOW'
+export const NEW_POST = 'NEW_POST'
+export const UPDATE_STATUS = 'UPDATE_STATUS'
+export const UPDATE_ARTICLE = 'UPDATE_ARTICLE';

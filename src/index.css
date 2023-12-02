@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background-image: url('https://i.imgur.com/zULmKe4.png'); !* Replace 'path/to/your-image.jpg' with the actual path to your image file. *!*/
+  background-size: cover; /* Adjust the size of the background image. 'cover' will scale the image to cover the entire element. */
+  background-repeat: no-repeat; /* Prevent the image from repeating. */
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
